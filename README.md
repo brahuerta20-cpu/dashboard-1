@@ -1,6 +1,8 @@
 # Análisis histórico de tendencias de videos en YouTube.
 Automatización de Dashboard
-Ver Dashboard: https://public.tableau.com/app/profile/braian.de.la.huerta/viz/Libro2_17726954823820/AnlisishistricodetendenciasdevideosenYouTube?publish=yes&showOnboarding=true
+
+Ver Dashboard:
+https://public.tableau.com/app/profile/braian.de.la.huerta/viz/Libro2_17726954823820/AnlisishistricodetendenciasdevideosenYouTube?publish=yes&showOnboarding=true
 
 En la agencia de publicidad Sterling & Draper, el equipo de análisis de videos publicitarios dedicaba una gran cantidad de tiempo a revisar manualmente las tendencias de YouTube. Cada semana, las nuevas empleadas solicitaban información sobre las categorías de videos que habían sido tendencia, su distribución por regiones y cuáles habían tenido mayor popularidad en los Estados Unidos. Obtener estas respuestas requería recopilar y analizar datos de manera repetitiva.
 
