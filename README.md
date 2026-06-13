@@ -1,5 +1,5 @@
 # Análisis histórico de tendencias de videos en YouTube.
-Automatización de Dashboard
+Automatización de Dashboard.
 
 Ver Dashboard:
 https://public.tableau.com/app/profile/braian.de.la.huerta/viz/Libro2_17726954823820/AnlisishistricodetendenciasdevideosenYouTube?publish=yes&showOnboarding=true
